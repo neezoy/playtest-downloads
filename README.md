@@ -24,6 +24,6 @@ Use New Game to name a kingdom, or Continue/Load Game to resume one. Escape canc
 
 Back up existing saves before trying a new version. Include your operating system, CPU/GPU, release version and the steps that caused a problem when reporting it. A screenshot or short recording helps. Check logs and saves for personal information before sharing them publicly.
 
-This is an early playtest. This update improves placement responsiveness and distant shadow transitions. Large terrain reveals can still hitch; reported Windows terrain artifacts and low-angle foliage issues remain under investigation. Native Windows and Mac playtesting of this upload remain pending.
+This is an early playtest. This update improves placement responsiveness and distant shadow transitions. Large terrain reveals can still hitch; reported Windows terrain artifacts and low-angle foliage issues remain under investigation. The extracted Linux package passed native menu/save/load checks. Native Windows and Mac playtesting of this upload remain pending.
 
 This repository distributes playable builds and release notes only. The game's editable source project is not published here.

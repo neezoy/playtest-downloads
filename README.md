@@ -4,15 +4,15 @@ A city builder about growing an island settlement, moving resources through busy
 
 ## Download
 
-[**Download the latest playtest for Windows, Linux or Mac**](https://github.com/neezoy/playtest-downloads/releases/tag/v2026.10.19.1)
+[**Download the latest playtest for Windows, Linux or Mac**](https://github.com/neezoy/playtest-downloads/releases/tag/v2026.10.23.6)
 
 Choose the game ZIP for your operating system under **Assets**. The automatic **Source code** archives contain this page only and are not playable downloads.
 
 | System | Download | Start |
 | --- | --- | --- |
-| Windows 64-bit | `VillageToKingdom-2026.10.19.1-windows-x64.zip` | Extract everything, then open `VillageToKingdom.exe`. |
-| Linux 64-bit | `VillageToKingdom-2026.10.19.1-linux-x64.zip` | Extract everything, then run `Start-VillageToKingdom.sh`. |
-| Mac — Intel or Apple Silicon | `VillageToKingdom-2026.10.19.1-macos-universal.zip` | Extract everything, then open `VillageToKingdom.app`. |
+| Windows 64-bit | `VillageToKingdom-2026.10.23.6-windows-x64.zip` | Extract everything, then open `VillageToKingdom.exe`. |
+| Linux 64-bit | `VillageToKingdom-2026.10.23.6-linux-x64.zip` | Extract everything, then run `Start-VillageToKingdom.sh`. |
+| Mac — Intel or Apple Silicon | `VillageToKingdom-2026.10.23.6-macos-universal.zip` | Extract everything, then open `VillageToKingdom.app`. |
 
 Keep the extracted files together. You do not need to install Godot or .NET. More launch instructions are included in each ZIP.
 
@@ -24,6 +24,6 @@ Use New Game to name a kingdom, or Continue/Load Game to resume one. Escape canc
 
 Back up existing saves before trying a new version. Include your operating system, CPU/GPU, release version and the steps that caused a problem when reporting it. A screenshot or short recording helps. Check logs and saves for personal information before sharing them publicly.
 
-This is an early playtest. Some detail transitions visibly pop while zooming, and occasional frame spikes and low-angle foliage visibility issues remain under investigation. Linux has been tested locally; Windows has a Wine startup check, while native Windows and Mac playtesting remain pending.
+This is an early playtest. This update improves placement responsiveness and distant shadow transitions. Large terrain reveals can still hitch; reported Windows terrain artifacts and low-angle foliage issues remain under investigation. Native Windows and Mac playtesting of this upload remain pending.
 
 This repository distributes playable builds and release notes only. The game's editable source project is not published here.
